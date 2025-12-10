@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**bdg-game-seo/bdg-game-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 BDG Game Gray Hat SEO Experiment
+Experiment Details
+⦁	Duration: 30 days (Dec 10, 2025 - Jan 10, 2026)
+⦁	Goal: Test gray hat SEO techniques
+⦁	Niche: BDG Game (Color prediction gaming)
+⦁	Status: Active
+Techniques Being Tested
+1.	Keyword stuffing (within limits)
+2.	Clickbait content strategies
+3.	Schema markup manipulation
+4.	Hidden text for bots
+5.	Fake timestamps
+6.	Urgency/scarcity tactics
+Disclaimer
+⚠️ This is an EDUCATIONAL experiment only.
+Will be deleted after 30 days.
+Not for commercial use.
